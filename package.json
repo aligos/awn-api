@@ -1,0 +1,26 @@
+{
+  "name": "awan-api",
+  "version": "1.0.0",
+  "description": "awan api example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony-async-await index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligos/awan-api.git"
+  },
+  "keywords": [
+    "api",
+    "example"
+  ],
+  "author": "Rahmat Aligos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aligos/awan-api/issues"
+  },
+  "homepage": "https://github.com/aligos/awan-api#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
